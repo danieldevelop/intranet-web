@@ -1,0 +1,1 @@
+# Intranet Web - Visual Basic Script
